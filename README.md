@@ -32,7 +32,7 @@ Gravex-Clmm is an open-sourced concentrated liquidity market maker (CLMM) progra
 Clone the repository and enter the source code directory.
 ```
 git clone https://github.com/gravex-io/gravex-clmm
-cd raydium-clmm
+cd gravex-clmm
 ```
 
 Build
